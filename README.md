@@ -4,6 +4,18 @@ Overview:
 
 This project involves setting up and managing a complete AWS cloud infrastructure using various AWS services. Below is a step-by-step guide of what was done:
 
+
+Architecture Diagram:
+
+![AWS Cloud](https://github.com/user-attachments/assets/bd073376-09c6-414e-82b8-205e6ab8483c)
+
+
+
+
+
+
+
+
 1. IAM User and Permissions Setup
 Created IAM User: Set up an IAM (Identity and Access Management) user for secure access.
 Assigned Permissions: Granted specific permissions to the IAM user based on the tasks needed.
@@ -33,6 +45,7 @@ Implemented CI/CD Pipelines: Used AWS CodePipeline, CodeBuild, and CodeDeploy to
 8. Monitoring and Logging
 Configured Amazon CloudWatch: Set up CloudWatch to monitor application performance and set up alerts for any issues.
 Enabled AWS CloudTrail: Activated CloudTrail to log and track API calls across the AWS environment for auditing and compliance.
+
 
 
 Key Learnings:
