@@ -33,6 +33,8 @@ Implemented CI/CD Pipelines: Used AWS CodePipeline, CodeBuild, and CodeDeploy to
 8. Monitoring and Logging
 Configured Amazon CloudWatch: Set up CloudWatch to monitor application performance and set up alerts for any issues.
 Enabled AWS CloudTrail: Activated CloudTrail to log and track API calls across the AWS environment for auditing and compliance.
+
+
 Key Learnings:
 
 Mastered AWS service configuration and management
